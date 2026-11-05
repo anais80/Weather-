@@ -1,5 +1,6 @@
 from typing import Any #Allows flexible type hints
 #New change
+#Harmless comment
 #Testing feature branch change 
 import httpx2 #sends HTTP requests to the weather API
 from mcp.server import MCPServer #Imports the MCP server class
